@@ -71,7 +71,7 @@ html{
     border-radius: 10px;
 }
 .background{
-    background: rgba(0, 0, 0, 0.7) url('img/bg1.jpg');
+    background: rgba(0, 0, 0, 0.7) url('https://source.unsplash.com/1600x900/?buildings,collegecampus');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -308,7 +308,7 @@ top: 15px;
         <div class="line"></div>
       </div>
       <ul class="nav-list v-class-resp ">
-        <div class="logo"><img src="https://unsplash.com/photos/HH4WBGNyltc" alt="logo" /></div>
+        <div class="logo"><img src="https://source.unsplash.com/1600x900/?educationlogo,school" alt="logo" /></div>
         <li><a href="#main">HOME</a></li>
         <li><a href="#about">ABOUT</a></li>
         <li><a href="#services">SERVICES</a></li>
@@ -335,7 +335,7 @@ top: 15px;
           </div>
         </div>
         <div class="shalf">
-          <img class="image" src="img/school.jpg" alt=" image" />
+          <img class="image" src="https://source.unsplash.com/1600x900/?collegestudents" alt=" image" />
         </div>
       </div>
     </section>
