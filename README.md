@@ -308,7 +308,7 @@ top: 15px;
         <div class="line"></div>
       </div>
       <ul class="nav-list v-class-resp ">
-        <div class="logo"><img src="img/logo2.jpg" alt="logo" /></div>
+        <div class="logo"><img src="https://unsplash.com/photos/HH4WBGNyltc" alt="logo" /></div>
         <li><a href="#main">HOME</a></li>
         <li><a href="#about">ABOUT</a></li>
         <li><a href="#services">SERVICES</a></li>
